@@ -1,4 +1,4 @@
-# How yo create a Java EE project with GWT and GWTMAterial
+# How yo create a Java EE project with GWT and GWTMaterial
 
 This document allows you to know and create a JAVA enterprise project using GWT. Many tools and technologies are found in the world, but this info is only limited to using X technologies to achieve the goal.
 
