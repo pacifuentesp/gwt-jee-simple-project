@@ -31,4 +31,4 @@ This document allows you to know and create a JAVA enterprise project using GWT.
 
 # Lets begin
 
-...
+![alt text](/resources/ProjectStructure.png)
