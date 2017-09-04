@@ -31,4 +31,5 @@ This document allows you to know and create a JAVA enterprise project using GWT.
 
 # Lets begin
 
+(I don't  know how put a directory structure, so I put a image.)
 ![alt text](/resources/ProjectStructure.png)
